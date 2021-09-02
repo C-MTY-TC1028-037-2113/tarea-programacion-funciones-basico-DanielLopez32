@@ -1,4 +1,7 @@
 # Escribe aquí tus funciones...
+def volumen_prisma(base,altura,profundidad):
+    v = base*altura*profundidad
+    return v
 
 def main():
     #escribe tu código abajo de esta línea
